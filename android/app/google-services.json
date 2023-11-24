@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431042372447",
+    "project_id": "prior-397b0",
+    "storage_bucket": "prior-397b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431042372447:android:d426bd5f0f94d532cb8cea",
+        "android_client_info": {
+          "package_name": "com.example.prior"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp_5R67EQajNyFFNNrtz0yJw1-thVKHmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
