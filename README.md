@@ -1,4 +1,4 @@
-# prior
+# Prior
 
 A Priority based chat application.
 
